@@ -1,0 +1,11 @@
+[
+    {
+        "username": "xkvampz",
+        "password": "password123"
+    },
+    {
+        "username": "anotheruser",
+        "password": "anotherpassword"
+    }
+    // Add more user objects as needed
+]
